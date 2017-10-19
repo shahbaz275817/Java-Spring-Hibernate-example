@@ -34,7 +34,7 @@ and open the template in the editor.
         <property name="driverClass" value="com.mysql.jdbc.Driver" />
         <property name="jdbcUrl" value="jdbc:mysql://localhost/mvc" />
         <property name="user" value="root" />
-        <property name="password" value="ruallok123" />
+        <property name="password" value="password" />
 	
         <property name="minPoolSize" value="5" />
         <property name="maxPoolSize" value="10" />
